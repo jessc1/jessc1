@@ -1,4 +1,4 @@
-![Design sem nome](https://user-images.githubusercontent.com/50178378/97747021-0e443880-1aca-11eb-9692-bee8fa0e9fb4.png)
+![Design sem nome (1)](https://user-images.githubusercontent.com/50178378/97747486-ce318580-1aca-11eb-87f4-57cea6387094.png)
 
 <center>
 <table>
