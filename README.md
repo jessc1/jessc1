@@ -1,6 +1,6 @@
 ### Hi 👋
 * 👂 My name is Maria
-* 🌱 I’m currently learning  Algorithm Analysis
+* 🌱 I’m currently learning  Algorithm Analysis, Web Scraping
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
